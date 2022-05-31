@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 import styles from './ProjectCard.module.css';
 
 import { BsPencil, BsFillTrashFill } from 'react-icons/bs';
@@ -14,9 +14,9 @@ function ProjectCard({ id, name, budget, category, handleRemove }) {
                 <span className={`${styles[category.toLowerCase()]}`}></span> {category}
             </p>
             <div className={styles.project_card_actions}>
-                <Link>
+                <button>
                     <BsPencil /> Editar
-                </Link>
+                </button>
                 <button>
                     <BsFillTrashFill /> Excluir
                 </button>
