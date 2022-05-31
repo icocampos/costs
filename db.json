@@ -12,17 +12,6 @@
       "id": 1
     },
     {
-      "name": "Testetetete",
-      "budget": "15000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "E-commerce",
       "budget": "15555",
       "category": {
