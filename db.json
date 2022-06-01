@@ -7,8 +7,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 14999,
+      "services": [
+        {
+          "name": "Contratar dev react sr",
+          "cost": "14999",
+          "description": "Testes",
+          "id": "f16a33b5-a4f7-4896-8cde-2b4ff1e167b1"
+        }
+      ],
       "id": 3
     },
     {
@@ -29,8 +36,15 @@
       },
       "name": "Definição de metas",
       "budget": "1200",
-      "cost": 0,
-      "services": [],
+      "cost": 864,
+      "services": [
+        {
+          "name": "E-commerce2",
+          "cost": "432",
+          "description": "Testes",
+          "id": "0b36be83-034f-4e80-8149-d196d3cc8a7d"
+        }
+      ],
       "id": 5
     }
   ],

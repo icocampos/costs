@@ -20,7 +20,7 @@ function ServiceForm({ handleSubmit, btnText, projectData }) {
     }
 
     return (
-        <form onSumit={submit} className={styles.form}>
+        <form onSubmit={submit} className={styles.form}>
             <Input
              type="text"
              text="Nome do serviço"
