@@ -46,6 +46,17 @@
         }
       ],
       "id": 5
+    },
+    {
+      "name": "Servidores Nuvem",
+      "budget": "80000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
