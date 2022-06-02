@@ -7,13 +7,13 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 14999,
+      "cost": 3244,
       "services": [
         {
-          "name": "Contratar dev react sr",
-          "cost": "14999",
+          "name": "teste",
+          "cost": "3244",
           "description": "Testes",
-          "id": "f16a33b5-a4f7-4896-8cde-2b4ff1e167b1"
+          "id": "bd975634-e42b-4919-96e8-f80cd8b23fd5"
         }
       ],
       "id": 3
